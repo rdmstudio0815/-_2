@@ -1,0 +1,6 @@
+{
+  "name": "둥근달스튜디오",
+  "description": "브랜드의 메시지를 시각과 콘텐츠로 설계하고, 문제 해결 사례와 성과 중심의 기획을 제안하는 의뢰 설계용 포트폴리오 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
